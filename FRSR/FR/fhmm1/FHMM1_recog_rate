@@ -1,0 +1,56 @@
+*************************************************************
+	  
+FERET 
+SR [Face Dic] =
+Recognition Rate is 80.4% for a total of 250 unseen faces.
+
+SR [Natural Dic] =
+Recognition Rate is 79.2% for a total of 250 unseen faces.
+   
+LR =
+Recognition Rate is 80.8% for a total of 250 unseen faces.
+      
+*************************************************************
+	  
+Essex (first 500)
+SR [Face Dic] =
+Recognition Rate is 100% for a total of 250 unseen faces.
+
+SR [Natural Dic] =
+Recognition Rate is 100% for a total of 250 unseen faces.
+   
+LR =
+Recognition Rate is 100% for a total of 250 unseen faces.
+      
+*************************************************************
+	  
+HP 
+SR [Face Dic] =
+Recognition Rate is 93.3333% for a total of 75 unseen faces.
+
+SR [Natural Dic] =
+Recognition Rate is 92% for a total of 75 unseen faces.
+   
+LR =
+Recognition Rate is 94.6667% for a total of 75 unseen faces.
+      
+*************************************************************
+	  
+Ours
+SR [Face Dic] =
+Recognition Rate is 95.4839% for a total of 155 unseen faces.
+
+SR [Natural Dic] =
+Recognition Rate is 96.129% for a total of 155 unseen faces.
+   
+LR =
+Recognition Rate is 96.7742% for a total of 155 unseen faces.
+      
+
+
+
+
+
+
+
+  

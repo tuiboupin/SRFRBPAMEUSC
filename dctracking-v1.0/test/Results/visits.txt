@@ -1,0 +1,11 @@
+Trajectory 7 visited locations: 11
+Trajectory 8 visited locations: 9
+Trajectory 12 visited locations: 12
+Trajectory 17 visited locations: 9
+Trajectory 18 visited locations: 11
+Trajectory 21 visited locations: 7 and then 2
+Trajectory 22 visited locations: 2 and then 3 and then 4
+Trajectory 24 visited locations: 7
+Trajectory 26 visited locations: 6
+Trajectory 27 visited locations: 2 and then 3
+Trajectory 29 visited locations: 10 and then 6

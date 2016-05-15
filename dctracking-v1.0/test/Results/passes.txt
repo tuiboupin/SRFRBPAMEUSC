@@ -1,0 +1,17 @@
+Trajectory 2 passed locations: 3 and then 2
+Trajectory 7 passed locations: 11
+Trajectory 8 passed locations: 9
+Trajectory 11 passed locations: 12
+Trajectory 12 passed locations: 12
+Trajectory 13 passed locations: 3
+Trajectory 17 passed locations: 9
+Trajectory 18 passed locations: 9 and then 4 and then 11
+Trajectory 19 passed locations: 7 and then 2
+Trajectory 20 passed locations: 3 and then 8
+Trajectory 21 passed locations: 11 and then 7 and then 2
+Trajectory 22 passed locations: 2 and then 3 and then 4
+Trajectory 23 passed locations: 8
+Trajectory 24 passed locations: 7
+Trajectory 26 passed locations: 6
+Trajectory 27 passed locations: 7 and then 2 and then 3 and then 7 and then 2
+Trajectory 29 passed locations: 1 and then 10 and then 6

@@ -1,0 +1,729 @@
+<?xml version="1.0" encoding="utf-8"?>
+<dataset name="00031_cropped">
+   <frame number="0">
+      <objectlist>
+         <object confidence="1" recog_result="s19">
+            <box h="206" w="226" xc="450" yc="289"/>
+         </object>
+         <object confidence="1" recog_result="s19">
+            <box h="213" w="234" xc="453" yc="292.5"/>
+         </object>
+      </objectlist>
+   </frame>
+   <frame number="1">
+      <objectlist>
+         <object confidence="1">
+            <box h="169" w="186" xc="502" yc="287.5"/>
+         </object>
+         <object confidence="1">
+            <box h="395" w="435" xc="608.5" yc="790.5"/>
+         </object>
+      </objectlist>
+   </frame>
+   <frame number="2">
+      <objectlist>
+         <object confidence="1">
+            <box h="60" w="66" xc="1191" yc="731"/>
+         </object>
+         <object confidence="1">
+            <box h="98" w="108" xc="537" yc="558"/>
+         </object>
+         <object confidence="1" recog_result="s1">
+            <box h="218" w="239" xc="519.5" yc="299"/>
+         </object>
+         <object confidence="1">
+            <box h="600" w="660" xc="980" yc="330"/>
+         </object>
+      </objectlist>
+   </frame>
+   <frame number="3">
+      <objectlist>
+         <object confidence="1">
+            <box h="116" w="128" xc="588" yc="866"/>
+         </object>
+         <object confidence="1" recog_result="s22">
+            <box h="213" w="234" xc="544" yc="286.5"/>
+         </object>
+         <object confidence="1">
+            <box h="113" w="125" xc="584.5" yc="872.5"/>
+         </object>
+         <object confidence="1" recog_result="s1">
+            <box h="215" w="237" xc="542.5" yc="283.5"/>
+         </object>
+         <object confidence="1">
+            <box h="533" w="586" xc="1191" yc="305.5"/>
+         </object>
+      </objectlist>
+   </frame>
+   <frame number="4">
+      <objectlist>
+         <object confidence="1" recog_result="s20">
+            <box h="224" w="246" xc="592" yc="281"/>
+         </object>
+         <object confidence="1" recog_result="s22">
+            <box h="234" w="258" xc="591" yc="276"/>
+         </object>
+         <object confidence="1">
+            <box h="463" w="510" xc="1376" yc="298.5"/>
+         </object>
+      </objectlist>
+   </frame>
+   <frame number="5">
+      <objectlist>
+         <object confidence="1" recog_result="s22">
+            <box h="230" w="253" xc="623.5" yc="282"/>
+         </object>
+         <object confidence="1" recog_result="s20">
+            <box h="235" w="258" xc="625" yc="278.5"/>
+         </object>
+         <object confidence="1">
+            <box h="419" w="461" xc="1441.5" yc="284.5"/>
+         </object>
+      </objectlist>
+   </frame>
+   <frame number="6">
+      <objectlist>
+         <object confidence="1">
+            <box h="251" w="276" xc="652" yc="278.5"/>
+         </object>
+         <object confidence="1">
+            <box h="242" w="266" xc="648" yc="279"/>
+         </object>
+         <object confidence="1">
+            <box h="331" w="364" xc="1412" yc="252.5"/>
+         </object>
+      </objectlist>
+   </frame>
+   <frame number="7">
+      <objectlist>
+         <object confidence="1">
+            <box h="255" w="281" xc="738.5" yc="277.5"/>
+         </object>
+         <object confidence="1">
+            <box h="284" w="312" xc="1477" yc="253"/>
+         </object>
+      </objectlist>
+   </frame>
+   <frame number="8">
+      <objectlist>
+         <object confidence="1">
+            <box h="261" w="288" xc="866" yc="269.5"/>
+         </object>
+         <object confidence="1">
+            <box h="269" w="295" xc="1446.5" yc="263.5"/>
+         </object>
+      </objectlist>
+   </frame>
+   <frame number="9">
+      <objectlist>
+         <object confidence="1">
+            <box h="255" w="280" xc="1441" yc="267.5"/>
+         </object>
+         <object confidence="1">
+            <box h="254" w="279" xc="996.5" yc="263"/>
+         </object>
+      </objectlist>
+   </frame>
+   <frame number="10">
+      <objectlist>
+         <object confidence="1" recog_result="s11">
+            <box h="228" w="250" xc="1125" yc="248"/>
+         </object>
+         <object confidence="1">
+            <box h="177" w="195" xc="1449.5" yc="456.5"/>
+         </object>
+         <object confidence="1" recog_result="s5">
+            <box h="236" w="260" xc="1123" yc="250"/>
+         </object>
+         <object confidence="1">
+            <box h="229" w="252" xc="1429" yc="250.5"/>
+         </object>
+      </objectlist>
+   </frame>
+   <frame number="11">
+      <objectlist>
+         <object confidence="1" recog_result="s5">
+            <box h="276" w="304" xc="1299" yc="232"/>
+         </object>
+      </objectlist>
+   </frame>
+   <frame number="12">
+      <objectlist>
+         <object confidence="1" recog_result="s8">
+            <box h="240" w="264" xc="1405" yc="226"/>
+         </object>
+      </objectlist>
+   </frame>
+   <frame number="13">
+      <objectlist>
+         <object confidence="1">
+            <box h="59" w="65" xc="1241.5" yc="438.5"/>
+         </object>
+         <object confidence="1" recog_result="s25">
+            <box h="166" w="183" xc="1320.5" yc="237"/>
+         </object>
+         <object confidence="1">
+            <box h="68" w="74" xc="1241" yc="436"/>
+         </object>
+         <object confidence="1" recog_result="s25">
+            <box h="173" w="191" xc="1318.5" yc="238.5"/>
+         </object>
+         <object confidence="1">
+            <box h="258" w="283" xc="1517.5" yc="223"/>
+         </object>
+      </objectlist>
+   </frame>
+   <frame number="14">
+      <objectlist>
+         <object confidence="1" recog_result="s25">
+            <box h="170" w="187" xc="1359.5" yc="241"/>
+         </object>
+         <object confidence="1" recog_result="s25">
+            <box h="177" w="195" xc="1359.5" yc="238.5"/>
+         </object>
+         <object confidence="1">
+            <box h="262" w="288" xc="1676" yc="220"/>
+         </object>
+      </objectlist>
+   </frame>
+   <frame number="15">
+      <objectlist>
+         <object confidence="1" recog_result="s25">
+            <box h="169" w="186" xc="1368" yc="234.5"/>
+         </object>
+         <object confidence="1" recog_result="s25">
+            <box h="181" w="200" xc="1367" yc="234.5"/>
+         </object>
+      </objectlist>
+   </frame>
+   <frame number="16">
+      <objectlist>
+         <object confidence="1" recog_result="s5">
+            <box h="169" w="185" xc="1337.5" yc="237.5"/>
+         </object>
+         <object confidence="1" recog_result="s5">
+            <box h="177" w="195" xc="1339.5" yc="238.5"/>
+         </object>
+      </objectlist>
+   </frame>
+   <frame number="17">
+      <objectlist>
+         <object confidence="1" recog_result="s25">
+            <box h="163" w="179" xc="1359.5" yc="236.5"/>
+         </object>
+         <object confidence="1" recog_result="s25">
+            <box h="172" w="189" xc="1358.5" yc="237"/>
+         </object>
+      </objectlist>
+   </frame>
+   <frame number="18">
+      <objectlist>
+         <object confidence="1" recog_result="s25">
+            <box h="160" w="176" xc="1377" yc="237"/>
+         </object>
+         <object confidence="1" recog_result="s25">
+            <box h="171" w="188" xc="1376" yc="238.5"/>
+         </object>
+      </objectlist>
+   </frame>
+   <frame number="19">
+      <objectlist>
+         <object confidence="1" recog_result="s5">
+            <box h="166" w="183" xc="1376.5" yc="233"/>
+         </object>
+         <object confidence="1" recog_result="s5">
+            <box h="172" w="189" xc="1377.5" yc="235"/>
+         </object>
+      </objectlist>
+   </frame>
+   <frame number="20">
+      <objectlist>
+         <object confidence="1" recog_result="s5">
+            <box h="160" w="176" xc="1368" yc="233"/>
+         </object>
+         <object confidence="1" recog_result="s5">
+            <box h="173" w="190" xc="1368" yc="235.5"/>
+         </object>
+      </objectlist>
+   </frame>
+   <frame number="21">
+      <objectlist>
+         <object confidence="1" recog_result="s5">
+            <box h="168" w="185" xc="1338.5" yc="237"/>
+         </object>
+         <object confidence="1" recog_result="s5">
+            <box h="171" w="188" xc="1337" yc="236.5"/>
+         </object>
+         <object confidence="1" recog_result="s25">
+            <box h="304" w="334" xc="1708" yc="212"/>
+         </object>
+      </objectlist>
+   </frame>
+   <frame number="22">
+      <objectlist>
+         <object confidence="1" recog_result="s5">
+            <box h="164" w="180" xc="1355" yc="240"/>
+         </object>
+         <object confidence="1" recog_result="s5">
+            <box h="173" w="190" xc="1354" yc="237.5"/>
+         </object>
+         <object confidence="1" recog_result="s5">
+            <box h="282" w="311" xc="1529.5" yc="218"/>
+         </object>
+      </objectlist>
+   </frame>
+   <frame number="23">
+      <objectlist>
+         <object confidence="1" recog_result="s25">
+            <box h="115" w="127" xc="1396.5" yc="235.5"/>
+         </object>
+         <object confidence="1" recog_result="s25">
+            <box h="119" w="131" xc="1397.5" yc="234.5"/>
+         </object>
+         <object confidence="1" recog_result="s19">
+            <box h="320" w="352" xc="1338" yc="239"/>
+         </object>
+      </objectlist>
+   </frame>
+   <frame number="24">
+      <objectlist>
+         <object confidence="1" recog_result="s5">
+            <box h="168" w="185" xc="1420.5" yc="237"/>
+         </object>
+         <object confidence="1" recog_result="s5">
+            <box h="167" w="184" xc="1419" yc="232.5"/>
+         </object>
+         <object confidence="1">
+            <box h="267" w="294" xc="1157" yc="233.5"/>
+         </object>
+      </objectlist>
+   </frame>
+   <frame number="25">
+      <objectlist>
+         <object confidence="1" recog_result="s5">
+            <box h="166" w="183" xc="1459.5" yc="235"/>
+         </object>
+         <object confidence="1" recog_result="s5">
+            <box h="177" w="195" xc="1458.5" yc="233.5"/>
+         </object>
+         <object confidence="1">
+            <box h="259" w="285" xc="1002.5" yc="245.5"/>
+         </object>
+      </objectlist>
+   </frame>
+   <frame number="26">
+      <objectlist>
+         <object confidence="1" recog_result="s25">
+            <box h="178" w="196" xc="1557" yc="227"/>
+         </object>
+         <object confidence="1" recog_result="s25">
+            <box h="186" w="204" xc="1555" yc="227"/>
+         </object>
+         <object confidence="1" recog_result="s11">
+            <box h="253" w="279" xc="872.5" yc="255.5"/>
+         </object>
+      </objectlist>
+   </frame>
+   <frame number="27">
+      <objectlist>
+         <object confidence="1" recog_result="s16">
+            <box h="190" w="209" xc="1620.5" yc="222"/>
+         </object>
+         <object confidence="1" recog_result="s16">
+            <box h="184" w="203" xc="1617.5" yc="221"/>
+         </object>
+         <object confidence="1" recog_result="s11">
+            <box h="247" w="271" xc="795.5" yc="264.5"/>
+         </object>
+      </objectlist>
+   </frame>
+   <frame number="28">
+      <objectlist>
+         <object confidence="1" recog_result="s16">
+            <box h="195" w="215" xc="1654.5" yc="219.5"/>
+         </object>
+         <object confidence="1" recog_result="s5">
+            <box h="244" w="269" xc="751.5" yc="270"/>
+         </object>
+         <object confidence="1" recog_result="s16">
+            <box h="199" w="219" xc="1651.5" yc="219.5"/>
+         </object>
+         <object confidence="1" recog_result="s11">
+            <box h="254" w="280" xc="749" yc="271"/>
+         </object>
+      </objectlist>
+   </frame>
+   <frame number="29">
+      <objectlist>
+         <object confidence="1" recog_result="s27">
+            <box h="199" w="218" xc="1708" yc="229.5"/>
+         </object>
+         <object confidence="1" recog_result="s16">
+            <box h="200" w="220" xc="1704" yc="225"/>
+         </object>
+         <object confidence="1" recog_result="s11">
+            <box h="267" w="293" xc="681.5" yc="278.5"/>
+         </object>
+      </objectlist>
+   </frame>
+   <frame number="30">
+      <objectlist>
+         <object confidence="1">
+            <box h="92" w="101" xc="582.5" yc="854"/>
+         </object>
+         <object confidence="1" recog_result="s11">
+            <box h="283" w="312" xc="545" yc="278.5"/>
+         </object>
+         <object confidence="1" recog_result="s25">
+            <box h="214" w="235" xc="1766.5" yc="214"/>
+         </object>
+      </objectlist>
+   </frame>
+   <frame number="31">
+      <objectlist>
+         <object confidence="1">
+            <box h="129" w="142" xc="535" yc="538.5"/>
+         </object>
+         <object confidence="1" recog_result="s25">
+            <box h="209" w="230" xc="1746" yc="211.5"/>
+         </object>
+         <object confidence="1" recog_result="s30">
+            <box h="288" w="317" xc="433.5" yc="297"/>
+         </object>
+      </objectlist>
+   </frame>
+   <frame number="32">
+      <objectlist>
+         <object confidence="1" recog_result="s25">
+            <box h="237" w="261" xc="1711.5" yc="221.5"/>
+         </object>
+         <object confidence="1" recog_result="s30">
+            <box h="309" w="340" xc="301" yc="293.5"/>
+         </object>
+      </objectlist>
+   </frame>
+   <frame number="33">
+      <objectlist>
+         <object confidence="1" recog_result="s25">
+            <box h="229" w="251" xc="1688.5" yc="215.5"/>
+         </object>
+         <object confidence="1" recog_result="s25">
+            <box h="321" w="354" xc="220" yc="299.5"/>
+         </object>
+      </objectlist>
+   </frame>
+   <frame number="34">
+      <objectlist>
+         <object confidence="1">
+            <box h="86" w="95" xc="442.5" yc="574"/>
+         </object>
+         <object confidence="1" recog_result="s10">
+            <box h="343" w="377" xc="296.5" yc="303.5"/>
+         </object>
+         <object confidence="1" recog_result="s25">
+            <box h="240" w="263" xc="1610.5" yc="224"/>
+         </object>
+      </objectlist>
+   </frame>
+   <frame number="35">
+      <objectlist>
+         <object confidence="1" recog_result="s8">
+            <box h="220" w="241" xc="1490.5" yc="225"/>
+         </object>
+         <object confidence="1" recog_result="s11">
+            <box h="344" w="378" xc="414" yc="284"/>
+         </object>
+      </objectlist>
+   </frame>
+   <frame number="36">
+      <objectlist>
+         <object confidence="1" recog_result="s5">
+            <box h="253" w="278" xc="1414" yc="241.5"/>
+         </object>
+         <object confidence="1" recog_result="s31">
+            <box h="260" w="285" xc="1409.5" yc="239"/>
+         </object>
+         <object confidence="1">
+            <box h="357" w="393" xc="452.5" yc="289.5"/>
+         </object>
+      </objectlist>
+   </frame>
+   <frame number="37">
+      <objectlist>
+         <object confidence="1" recog_result="s5">
+            <box h="257" w="282" xc="1321" yc="242.5"/>
+         </object>
+         <object confidence="1" recog_result="s31">
+            <box h="276" w="303" xc="1319.5" yc="245"/>
+         </object>
+         <object confidence="1" recog_result="s11">
+            <box h="333" w="366" xc="550" yc="287.5"/>
+         </object>
+      </objectlist>
+   </frame>
+   <frame number="38">
+      <objectlist>
+         <object confidence="1">
+            <box h="60" w="66" xc="1191" yc="731"/>
+         </object>
+         <object confidence="1">
+            <box h="113" w="125" xc="535.5" yc="542.5"/>
+         </object>
+         <object confidence="1" recog_result="s5">
+            <box h="235" w="258" xc="1203" yc="245.5"/>
+         </object>
+         <object confidence="1" recog_result="s11">
+            <box h="344" w="378" xc="605" yc="288"/>
+         </object>
+      </objectlist>
+   </frame>
+   <frame number="39">
+      <objectlist>
+         <object confidence="1" recog_result="s5">
+            <box h="237" w="261" xc="1112.5" yc="251.5"/>
+         </object>
+         <object confidence="1" recog_result="s11">
+            <box h="388" w="427" xc="521.5" yc="285"/>
+         </object>
+         <object confidence="1" recog_result="s25">
+            <box h="396" w="435" xc="540.5" yc="469"/>
+         </object>
+      </objectlist>
+   </frame>
+   <frame number="40">
+      <objectlist>
+         <object confidence="1" recog_result="s10">
+            <box h="247" w="272" xc="1086" yc="256.5"/>
+         </object>
+         <object confidence="1" recog_result="s30">
+            <box h="419" w="461" xc="419.5" yc="294.5"/>
+         </object>
+      </objectlist>
+   </frame>
+   <frame number="41">
+      <objectlist>
+         <object confidence="1" recog_result="s5">
+            <box h="264" w="290" xc="1063" yc="262"/>
+         </object>
+         <object confidence="1" recog_result="s30">
+            <box h="435" w="479" xc="308.5" yc="312.5"/>
+         </object>
+      </objectlist>
+   </frame>
+   <frame number="42">
+      <objectlist>
+         <object confidence="1" recog_result="s5">
+            <box h="261" w="288" xc="1126" yc="258.5"/>
+         </object>
+         <object confidence="1" recog_result="s10">
+            <box h="278" w="306" xc="1123" yc="263"/>
+         </object>
+      </objectlist>
+   </frame>
+   <frame number="43">
+      <objectlist>
+         <object confidence="1">
+            <box h="163" w="179" xc="537.5" yc="558.5"/>
+         </object>
+         <object confidence="1" recog_result="s5">
+            <box h="279" w="307" xc="1295.5" yc="246.5"/>
+         </object>
+         <object confidence="1" recog_result="s25">
+            <box h="384" w="423" xc="240.5" yc="279"/>
+         </object>
+      </objectlist>
+   </frame>
+   <frame number="44">
+      <objectlist>
+         <object confidence="1">
+            <box h="84" w="92" xc="581" yc="851"/>
+         </object>
+         <object confidence="1" recog_result="s5">
+            <box h="281" w="309" xc="1428.5" yc="236.5"/>
+         </object>
+         <object confidence="1" recog_result="s11">
+            <box h="486" w="534" xc="353" yc="306"/>
+         </object>
+      </objectlist>
+   </frame>
+   <frame number="45">
+      <objectlist>
+         <object confidence="1" recog_result="s5">
+            <box h="301" w="331" xc="1574.5" yc="239.5"/>
+         </object>
+         <object confidence="1">
+            <box h="491" w="541" xc="381.5" yc="280.5"/>
+         </object>
+      </objectlist>
+   </frame>
+   <frame number="46">
+      <objectlist>
+         <object confidence="1" recog_result="s16">
+            <box h="290" w="319" xc="1712.5" yc="223"/>
+         </object>
+         <object confidence="1">
+            <box h="642" w="707" xc="570.5" yc="332"/>
+         </object>
+      </objectlist>
+   </frame>
+   <frame number="47">
+      <objectlist>
+         <object confidence="1">
+            <box h="60" w="66" xc="1738" yc="819"/>
+         </object>
+         <object confidence="1">
+            <box h="268" w="294" xc="1158" yc="786"/>
+         </object>
+         <object confidence="1" recog_result="s9">
+            <box h="517" w="569" xc="787.5" yc="290.5"/>
+         </object>
+      </objectlist>
+   </frame>
+   <frame number="48">
+      <objectlist>
+         <object confidence="1" recog_result="s22">
+            <box h="519" w="571" xc="842.5" yc="317.5"/>
+         </object>
+      </objectlist>
+   </frame>
+   <frame number="49">
+      <objectlist>
+         <object confidence="1">
+            <box h="106" w="117" xc="1185.5" yc="716"/>
+         </object>
+         <object confidence="1">
+            <box h="503" w="553" xc="971.5" yc="281.5"/>
+         </object>
+      </objectlist>
+   </frame>
+   <frame number="50">
+      <objectlist>
+         <object confidence="1">
+            <box h="485" w="533" xc="1167.5" yc="284.5"/>
+         </object>
+      </objectlist>
+   </frame>
+   <frame number="51">
+      <objectlist>
+         <object confidence="1">
+            <box h="436" w="480" xc="1076" yc="287"/>
+         </object>
+      </objectlist>
+   </frame>
+   <frame number="52">
+      <objectlist>
+         <object confidence="1">
+            <box h="48" w="53" xc="1129.5" yc="859"/>
+         </object>
+         <object confidence="1">
+            <box h="117" w="128" xc="1153" yc="717.5"/>
+         </object>
+         <object confidence="1" recog_result="s15">
+            <box h="369" w="406" xc="951" yc="262.5"/>
+         </object>
+      </objectlist>
+   </frame>
+   <frame number="53">
+      <objectlist>
+         <object confidence="1" recog_result="s11">
+            <box h="326" w="358" xc="945" yc="273"/>
+         </object>
+      </objectlist>
+   </frame>
+   <frame number="54">
+      <objectlist>
+         <object confidence="1" recog_result="s11">
+            <box h="286" w="314" xc="880" yc="264"/>
+         </object>
+      </objectlist>
+   </frame>
+   <frame number="55">
+      <objectlist>
+         <object confidence="1" recog_result="s25">
+            <box h="266" w="293" xc="789.5" yc="260"/>
+         </object>
+      </objectlist>
+   </frame>
+   <frame number="56">
+      <objectlist>
+         <object confidence="1" recog_result="s11">
+            <box h="240" w="264" xc="771" yc="275"/>
+         </object>
+         <object confidence="1" recog_result="s5">
+            <box h="305" w="335" xc="1607.5" yc="220.5"/>
+         </object>
+      </objectlist>
+   </frame>
+   <frame number="57">
+      <objectlist>
+         <object confidence="1">
+            <box h="114" w="125" xc="787.5" yc="775"/>
+         </object>
+         <object confidence="1" recog_result="s12">
+            <box h="249" w="274" xc="737" yc="272.5"/>
+         </object>
+         <object confidence="1" recog_result="s8">
+            <box h="280" w="308" xc="1503" yc="239"/>
+         </object>
+      </objectlist>
+   </frame>
+   <frame number="58">
+      <objectlist>
+         <object confidence="1">
+            <box h="163" w="179" xc="813.5" yc="881.5"/>
+         </object>
+         <object confidence="1">
+            <box h="164" w="180" xc="709" yc="883"/>
+         </object>
+         <object confidence="1">
+            <box h="243" w="267" xc="741.5" yc="275.5"/>
+         </object>
+         <object confidence="1" recog_result="s5">
+            <box h="299" w="329" xc="1392.5" yc="232.5"/>
+         </object>
+      </objectlist>
+   </frame>
+   <frame number="59">
+      <objectlist>
+         <object confidence="1" recog_result="s22">
+            <box h="214" w="236" xc="822" yc="275"/>
+         </object>
+         <object confidence="1" recog_result="s22">
+            <box h="215" w="237" xc="818.5" yc="271.5"/>
+         </object>
+         <object confidence="1" recog_result="s5">
+            <box h="300" w="330" xc="1273" yc="250"/>
+         </object>
+      </objectlist>
+   </frame>
+   <frame number="60">
+      <objectlist>
+         <object confidence="1" recog_result="s19">
+            <box h="196" w="216" xc="923" yc="265"/>
+         </object>
+         <object confidence="1" recog_result="s22">
+            <box h="205" w="226" xc="921" yc="264.5"/>
+         </object>
+         <object confidence="1" recog_result="s5">
+            <box h="313" w="345" xc="1143.5" yc="256.5"/>
+         </object>
+      </objectlist>
+   </frame>
+   <frame number="61">
+      <objectlist>
+         <object confidence="1" recog_result="s5">
+            <box h="278" w="306" xc="1013" yc="260"/>
+         </object>
+      </objectlist>
+   </frame>
+   <frame number="62">
+      <objectlist>
+         <object confidence="1" recog_result="s22">
+            <box h="196" w="215" xc="1125.5" yc="247"/>
+         </object>
+         <object confidence="1" recog_result="s31">
+            <box h="307" w="338" xc="865" yc="269.5"/>
+         </object>
+      </objectlist>
+   </frame>
+</dataset>
